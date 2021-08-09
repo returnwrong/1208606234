@@ -27,7 +27,8 @@ ________________________________________________________________________________
 
 ### GitHubStar🌟
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1208606234&hide_border=true">
-
+</br>
+<p></p>
 ### egg🥚
 <img align="right" src="https://inews.gtimg.com/newsapp_bt/0/13135825746/641">
 </div>
