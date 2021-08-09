@@ -25,5 +25,5 @@ ________________________________________________________________________________
            https://www.freebuf.com/articles/web/280393.html
 
 ### egg🥚
-<img align="right" src="https://inews.gtimg.com/newsapp_bt/0/13135825746/641">
+<img align="left" src="https://inews.gtimg.com/newsapp_bt/0/13135825746/641">
 </div>
