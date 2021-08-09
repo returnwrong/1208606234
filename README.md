@@ -25,10 +25,14 @@ ________________________________________________________________________________
            https://www.freebuf.com/articles/web/280393.html
 
 ### 常用语言🌟
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=1208606234&show_icons=true&hide_border=true">
+</p>
 
 ### GitHubStar🌟
+<p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1208606234&hide_border=true">
+</p>
 
 ###egg🥚
 
