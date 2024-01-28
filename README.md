@@ -22,6 +22,7 @@ ________________________________________________________________________________
            https://www.freebuf.com/articles/web/259677.html
            https://www.freebuf.com/articles/system/268179.html
 - ⭐️ web漏洞研究:  </br>
+
            https://www.freebuf.com/articles/web/360331.html
            https://www.freebuf.com/vuls/380521.html
 
