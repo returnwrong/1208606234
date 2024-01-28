@@ -1,18 +1,18 @@
-### Hi, I'm Raymond Kenny. 👋
+### Hi, I'm returnwrong. 👋
 
-- 🔭 I’m now Core member of crocodile tracking team for Cyber crime.
-- 🌱 I’m an information security engineer. 
-- 🤔 I’m currently coding in html PHP and Python.
-- 🔥 Offensive Security Researcher.⚡
-- 💬 Be free to ask me about anything [here](https://github.com/1208606234/1208606234/issues).
+- 🔭 I am a member of Day1 Security Team, which is a team focused on SRC vulnerability discovery. Day1 Security Team has a ranking on various SRC platforms..
+- 🌱 Currently, my job is a network security engineer. 
+- 🤔 Usually, I submit some vulnerabilities in various SRC platforms to earn some pocket money.
+- 🔥  I love researching web vulnerability technology ⚡.
+- 💬 Be free to ask me about anything [here](https://www.freebuf.com/author/return0).
 ____________________________________________________________________________________________________________________________________________________
 
-### Hi❤我是T-bone，因为很崇拜看门狗中的Raymond Kenny,所以给自己取了这个ID.
-- 🔭 我是追鳄小队的核心成员，追鳄小队是一个关于网络犯罪追踪溯源的一个非公开组织(可以理解为APT威胁狩猎小队)
-- 🌱 目前我是一个国内TOP信息安全公司的安全服务工程师(打工人的辛酸)
-- 🤔 曾经在未做信息安全的学生时代我比较熟悉php、html、python等语言，后来工作中也不经常用，主要都是用大佬的工具.
-- 🔥 热爱红队技术研究⚡
-- 💬 如果你有问题或者想了解我可以点击➡[here](https://github.com/1208606234/1208606234/issues).
+### Hi❤我是returnwrong.
+- 🔭 我是Day1安全团队成员，Day1安全团队是一个专注于src漏洞挖掘的团队，Day1安全团队在各大src上均有排名.
+- 🌱 目前我的工作是一个网络安全工程师.
+- 🤔 日常会在各大src里提交一些漏洞，赚取一些零花钱.
+- 🔥 热爱web漏洞技术研究⚡
+- 💬 如果你有问题或者想了解我可以点击➡[here](https://www.freebuf.com/author/return0).
 
 
 ### T-bone ' s Link
@@ -21,9 +21,9 @@ ________________________________________________________________________________
            https://www.freebuf.com/articles/web/263773.html
            https://www.freebuf.com/articles/web/259677.html
            https://www.freebuf.com/articles/system/268179.html
-- ⭐️ APT反制:  </br>
-
-           https://www.freebuf.com/articles/web/280393.html
+- ⭐️ web漏洞研究:  </br>
+           https://www.freebuf.com/articles/web/360331.html
+           https://www.freebuf.com/vuls/380521.html
 
 ### egg🥚
 <img align="left" src="https://inews.gtimg.com/newsapp_bt/0/13135825746/641">
